@@ -1,0 +1,26 @@
+ID,Ano,Filiação,Países,Fonte,Evidência
+2,2025,"CNPC Research Institute of Safety & Environmental Technology (Beijing, China) e China University of Mining & Technology.",CHN,nome de país no texto,China
+3,2025,"European University Cyprus, Center for Risk and Safety in the Environment, Nicósia, Chipre",CYP,nome de país no texto,Chipre
+4,2021,"University of Alberta, Canada",CAN,nome de país no texto,Canada
+6,2023,"Petroliam Nasional Berhad (PETRONAS), Project Delivery & Technology (PD&T), Kuala Lumpur, Malásia",MYS,nome de país no texto,Malásia
+7,2019,Instituto de Pesquisas Eldorado e Petrobras (Brasil),BRA,nome de país no texto,Brasil
+8,2022,Universidade Federal de Pernambuco,BRA,inferido por cidade/instituição,Universidade Federal -> BRA (inferido)
+10,2021,China University of Petroleum; Shandong University of Science and Technology,CHN,nome de país no texto,China
+11,2025,"Texas A&M University (College Station, Texas, EUA) e University of Wisconsin–Madison (Madison, Wisconsin, EUA).",USA,nome de país no texto,EUA
+16,2024,Petroliam Nasional Berhad (PETRONAS) (Malasya),MYS,nome de país no texto,Malasya
+18,2025,"University of Strathclyde, Centre for Intelligent Infrastructure, Glasgow, Reino Unido, Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), Rio de Janeiro, Brasil",BRA; GBR,nome de país no texto,"Brasil, Reino Unido"
+19,2024,"Tengizchevroil, Cazaquistão (sem vínculo universitário)",KAZ,nome de país no texto,Cazaquistão
+23,2024,"Indian Institute of Management Mumbai, Índia, University of Colorado Denver, Estados Unidos, Indian Institute of Management Jammu, Índia",IND; USA,nome de país no texto,"Índia, Estados Unidos"
+27,2026,"School of Safety and Ocean Engineering, China University of Petroleum, Beijing, China, CNPC Safety and Environmental Technology Research Institute Co., Ltd., Beijing, China",CHN,nome de país no texto,China
+28,2024,"Xian Shiyou University, Xi’an, China e CNOOC Ener Tech-Drilling & Production Co., Tianjin, China;",CHN,nome de país no texto,China
+32,2024,"Dalian Polytechnic University, School of Information Science and Engineering, Dalian, China, Dalian University of Technology, School of Control Science and Engineering, Dalian, China",CHN,nome de país no texto,China
+33,2022,"School of Engineering, Asia Pacific University of Technology and Innovation (APU), Kuala Lumpur, Malásia.",MYS,nome de país no texto,Malásia
+34,2025,"PetroChina Changqing Oilfield Company (Qingyang, China), Digital Technology Service Department of Changqing Oilfield Branch (Xi'an,China),  Kunlun Digital Intelligence Technology Co. (Beijing, China)",CHN,nome de país no texto,China
+37,2019,"QHSE Data Analytics (país não é informado, buscar essa informação)",USA,decisão manual,"País não informado no CSV; hipótese adotada pelo grupo (EUA). Não confirmado na filiação do autor (M. Danis, SPE 195737)."
+39,2025,"Department of Engineering Sciences, National University of Sciences and Technology, Islamabad, Pakistan; Engro Polymer and Chemicals Limited, Karachi, Pakistan",PAK,nome de país no texto,Pakistan
+40,2025,"Digital and Intelligent Management Department of PetroChina Changqing Oilfield Company, Xi’an, Shaanxi, China",CHN,nome de país no texto,China
+41,2023,"Pix Force (é uma empresa sediada em Porto Alegre, Brasil)",BRA,nome de país no texto,Brasil
+42,2019,Eni e Celi (empresas italianas),ITA,nome de país no texto,italianas
+44,2024,Universidade Federal de Pernambuco (Brazil) Federal University of Rio Grande do Norte (Brazil) Universidade Federal de Alagoas (Brazil) Technology Innovation Institute (Emirados Árabes),BRA; ARE,nome de país no texto,"Brazil, Emirados Árabes"
+45,2014,"Instituto de Lógica, Filosofia e Teoria da Ciência (ILTC), Niterói; PUC-Rio, Rio de Janeiro;  Universidad Carlos III de Madrid, Madrid, Espanha; Universidade Federal Fluminense, Niterói.",ESP; BRA,país no texto + inferência por cidade/instituição,"Espanha, Rio de Janeiro -> BRA (inferido)"
+47,2015,UFF (Niterói) e PUC-Rio,BRA,inferido por cidade/instituição,Niterói -> BRA (inferido)
